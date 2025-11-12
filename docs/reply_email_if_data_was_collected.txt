@@ -1,0 +1,35 @@
+Subject: Response to Your Data Privacy Request – WeightView
+
+Hello [Name],
+
+Thank you for contacting us regarding your data privacy rights.
+
+At WeightView, we take your privacy seriously. Depending on your request, here’s how we handle your data:
+
+🔹 If you requested access to your data
+
+We will provide a summary of the personal data we currently hold about you, including the categories of information collected and how it is used.
+
+🔹 If you requested correction of your data
+
+We will update or correct any inaccurate or incomplete information once we verify your identity.
+
+🔹 If you requested deletion of your data
+
+Upon confirmation, we will delete your personal data from our systems (except for data we are legally required to retain, such as anonymized analytics or error logs).
+
+🔹 If you requested data portability
+
+We will export a copy of your data in a machine-readable format where applicable.
+
+Please note that we may need to verify your identity before fulfilling your request to ensure the security of your information.
+
+You can review our full Privacy Policy for more information on how your data is collected, used, and protected:
+👉 https://gcoppard.github.io/weight_view_about/index.html
+
+If you would like to proceed, please confirm which of the following actions you’d like to take (Access / Correction / Deletion / Portability), and we’ll begin processing your request.
+
+Kind regards,
+Gary Coppard
+WeightView Developer
+📧 gary_coppard@outlook.com
