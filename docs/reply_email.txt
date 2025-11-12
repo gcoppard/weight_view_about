@@ -1,0 +1,20 @@
+
+📧 Template: Response to Data Privacy Request
+
+Subject: Response to Your Data Privacy Request – WeightView
+
+Hello [Name],
+
+Thank you for reaching out regarding your data privacy rights.
+
+WeightView does not collect or store any personal or identifiable information such as your name, email address, or contact details. The app uses Firebase Analytics and Firebase Crashlytics solely to collect anonymous, aggregated usage and crash data. This information helps us improve app performance and reliability but cannot be linked to any individual user.
+
+Because no personally identifiable data is stored or accessible, we are unable to locate, export, or delete any data associated with you — there simply isn’t any personal data in our systems.
+
+If you have any further questions about our privacy practices, you can review our full Privacy Policy here:
+👉 https://gcoppard.github.io/weight_view_about/index.html
+
+Kind regards,
+Gary Coppard
+WeightView Developer
+📧 gary_coppard@outlook.com
