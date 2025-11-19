@@ -5,9 +5,9 @@ Thank you for using WeightView! This page will help you report issues, request f
 ---
 
 ## 📬 How to Get Support
-If you encounter a bug, have a question, or want to suggest a new feature, please open an issue:
+If you encounter a bug, have a question, or want to suggest a new feature, please email:
 
-👉 **[Open an Issue](https://github.com/YourUsername/YourApp/issues)**
+👉 weightviewapp@gmail.com 
 
 When submitting an issue, please include:
 - A clear description of the problem
